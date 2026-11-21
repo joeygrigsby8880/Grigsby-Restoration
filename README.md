@@ -6,6 +6,10 @@ A lightweight, responsive marketing website for Grigsby Restoration. It uses pla
 
 Open `index.html` in a browser, or serve the project directory with any local static file server.
 
+## Public website
+
+The site is published at https://joeygrigsby8880.github.io/Grigsby-Restoration/. Pushes to `main` automatically deploy through the GitHub Pages workflow.
+
 ## Customize
 
 - Replace the sample Unsplash photos in `index.html` and `app.js` with Grigsby Restoration's own project photography before publishing. The gallery labels the current imagery as samples.
